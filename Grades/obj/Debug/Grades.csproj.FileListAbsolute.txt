@@ -1,0 +1,14 @@
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\ebalbuena\Desktop\repos\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\ebalbuena\Desktop\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\ebalbuena\Desktop\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\ebalbuena\Desktop\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\ebalbuena\Desktop\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\ebalbuena\Desktop\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\ebalbuena\Desktop\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\ebalbuena\Desktop\Grades\Grades\obj\Debug\Grades.pdb
